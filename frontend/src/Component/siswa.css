@@ -1,0 +1,27 @@
+
+.location {
+    font-size: 14px;
+    color: #B3B8C3;
+    line-height: 6px;
+}
+.welcome {
+    color: #fff;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.form-control {
+    max-width: 350px;
+}
+
+.list-group {
+    max-width: 825px;
+}
+
+.content {
+    max-width: 1300px;
+    background-color: white;
+    margin-top: 20px;
+    padding: 40px;
+    border-radius: 20px;
+}
